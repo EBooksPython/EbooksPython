@@ -904,6 +904,284 @@
 |2015| [QGIS Python Programming Cookbook: Over 140 recipes to help you turn QGIS from a desktop GIS tool into a powerful automated geospatial framework](https://b-ok.lat/book/2735098/220138)|
 |2015| [Fluent Python: Clear, Concise, and Effective Programming](https://b-ok.lat/book/2735119/ff4694)|
 |2015| [Machine Learning in Python: Essential Techniques for Predictive Analysis](https://b-ok.lat/book/2735384/49b011)|
+|2014| [Python for Signal Processing: Featuring IPython Notebooks](https://b-ok.lat/book/2190424/a4fcd3)|
+|2014| [Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data](https://b-ok.lat/book/2327283/d9b346)|
+|2014| [The Python Quick Syntax Reference](https://b-ok.lat/book/2330832/145c51)|
+|2014| [Learning Python with Raspberry Pi](https://b-ok.lat/book/2333430/47323a)|
+|2014| [Mastering Python Regular Expressions](https://b-ok.lat/book/2333895/f6b9e9)|
+|2014| [Python pocket reference](https://b-ok.lat/book/2339405/f5d82c)|
+|2014| [Flask Web Development: Developing Web Applications with Python](https://b-ok.lat/book/2340139/1d5e3e)|
+|2014| [Flask Web Development: Developing Web Applications with Python](https://b-ok.lat/book/2340140/1bfee5)|
+|2014| [Python for Finance](https://b-ok.lat/book/2343107/96b549)|
+|2014| [Learn Raspberry Pi Programming with Python](https://b-ok.lat/book/2348123/447562)|
+|2014| [Python Network Programming Cookbook](https://b-ok.lat/book/2352404/5e4a43)|
+|2014| [Python Network Programming Cookbook](https://b-ok.lat/book/2352405/78c004)|
+|2014| [Python Network Programming Cookbook](https://b-ok.lat/book/2352407/a1900d)|
+|2014| [Mastering Object-oriented Python](https://b-ok.lat/book/2353028/c73dc9)|
+|2014| [Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing](https://b-ok.lat/book/2361388/e8864d)|
+|2014| [Python Forensics. A Workbench for Inventing and Sharing Digital Forensic Technology](https://b-ok.lat/book/2367768/d79286)|
+|2014| [Python for Secret Agents](https://b-ok.lat/book/2373176/d23d84)|
+|2014| [High Performance Python: Practical Performant Programming for Humans](https://b-ok.lat/book/2383471/4dfd2c)|
+|2014| [Python Algorithms: Mastering Basic Algorithms in the Python Language](https://b-ok.lat/book/2384861/763747)|
+|2014| [Test-Driven Development with Python](https://b-ok.lat/book/2455821/24b306)|
+|2014| [Building Probabilistic Graphical Models with Python](https://b-ok.lat/book/2458129/544b9b)|
+|2014| [Foundations of Python Network Programming, Third Edition](https://b-ok.lat/book/2464660/5272f4)|
+|2014| [Beginning Python Visualization: Crafting Visual Transformation Scripts](https://b-ok.lat/book/2464835/75f170)|
+|2014| [Python Algorithms: Mastering Basic Algorithms in the Python Language](https://b-ok.lat/book/2464836/fd599b)|
+|2014| [A Primer on Scientific Programming with Python](https://b-ok.lat/book/2466890/754ca6)|
+|2014| [Beginning Programming With Python](https://b-ok.lat/book/2470308/527094)|
+|2014| [Python 3 Text Processing with NLTK 3 Cookbook](https://b-ok.lat/book/2472011/a2183e)|
+|2014| [Python for Scientists](https://b-ok.lat/book/2472134/b3d69d)|
+|2014| [Pro Python System Administration](https://b-ok.lat/book/2472260/c3c5cc)|
+|2014| [Think Python: How to Think Like a Computer Scientist](https://b-ok.lat/book/2472853/f36c89)|
+|2014| [Python Projects](https://b-ok.lat/book/2473882/4f9223)|
+|2014| [Black Hat Python: Python Programming for Hackers and Pentesters](https://b-ok.lat/book/2475649/baf4dc)|
+|2014| [Black Hat Python: Python Programming for Hackers and Pentesters](https://b-ok.lat/book/2476271/2cacca)|
+|2014| [Black Hat Python: Python Programming for Hackers and Pentesters](https://b-ok.lat/book/2476272/ef5193)|
+|2014| [Python for Finance: Analyze Big Financial Data](https://b-ok.lat/book/2481325/ffc896)|
+|2014| [Python Programming Fundamentals](https://b-ok.lat/book/2485804/0b2999)|
+|2014| [Pro Python System Administration](https://b-ok.lat/book/2485876/5957a4)|
+|2014| [Pro Python: Second Edition](https://b-ok.lat/book/2485883/bfe875)|
+|2014| [The Python Workbook: A Brief Introduction with Exercises and Solutions](https://b-ok.lat/book/2486946/a9d92a)|
+|2014| [Introducing Python: Modern Computing in Simple Packages](https://b-ok.lat/book/2493167/69120d)|
+|2014| [Learning Selenium Testing Tools with Python](https://b-ok.lat/book/2495160/054623)|
+|2014| [Parallel Programming with Python](https://b-ok.lat/book/2515204/e6ac3e)|
+|2014| [Python 3 Text Processing with NLTK 3 Cookbook](https://b-ok.lat/book/2525079/8ae2ac)|
+|2014| [Getting Started with BeagleBone: Linux-Powered Electronic Projects With Python and JavaScript](https://b-ok.lat/book/2530146/f43e84)|
+|2014| [Explorations in Computing: An Introduction to Computer Science and Python Programming](https://b-ok.lat/book/2533260/5472cf)|
+|2014| [Image Processing and Acquisition using Python](https://b-ok.lat/book/2533306/ff1346)|
+|2014| [Making Music with Computers: Creative Programming in Python](https://b-ok.lat/book/2533354/1ba0ee)|
+|2014| [Managing Your Biological Data with Python](https://b-ok.lat/book/2533356/66820e)|
+|2014| [Introducing Python: Modern Computing in Simple Packages](https://b-ok.lat/book/2534016/be8db7)|
+|2014| [Make a Raspberry Pi-Controlled Robot: Building a Rover with Python, Linux, Motors, and Sensors](https://b-ok.lat/book/2550581/fd39cd)|
+|2014| [Python Programming Fundamentals](https://b-ok.lat/book/2566651/5aabc5)|
+|2014| [Image analysis, classifaction and change detection in remote sensing : with algorithms for ENVI/IDL and Python](https://b-ok.lat/book/2572441/84387c)|
+|2014| [Python Programming for Beginners: An Introduction to the Python Computer Language and Computer Programming](https://b-ok.lat/book/2579339/1038c5)|
+|2014| [Python Tools for Visual Studio](https://b-ok.lat/book/2610267/2f6773)|
+|2014| [The Hacker's Guide to Python](https://b-ok.lat/book/2615521/56fc81)|
+|2014| [Python programming fundamentals](https://b-ok.lat/book/2624779/e5c10f)|
+|2014| [Mastering Python regular expressions](https://b-ok.lat/book/2624780/fa93a2)|
+|2014| [The Python Workbook: A Brief Introduction with Exercises and Solutions](https://b-ok.lat/book/2624785/8e9724)|
+|2014| [Beginning programming with Python for dummies](https://b-ok.lat/book/2625009/8b5c91)|
+|2014| [Python for scientists](https://b-ok.lat/book/2625010/cf2177)|
+|2014| [Mastering Python regular expressions : leverage regular expressions in Python even for the most complex features](https://b-ok.lat/book/2637265/a293c8)|
+|2014| [Mastering Python regular expressions : leverage regular expressions in Python even for the most complex features](https://b-ok.lat/book/2637266/7e136f)|
+|2014| [Black Hat Python: Python Programming for Hackers and Pentesters](https://b-ok.lat/book/2651658/7ad635)|
+|2014| [Python pocket reference](https://b-ok.lat/book/2658888/020edf)|
+|2014| [Python pocket reference](https://b-ok.lat/book/2658889/b5d4ad)|
+|2014| [Learning Python Data Visualization](https://b-ok.lat/book/2700636/300e98)|
+|2014| [Python Forensics](https://b-ok.lat/book/2705641/fc0691)|
+|2014| [Test-Driven Development with Python](https://b-ok.lat/book/2705725/a163ef)|
+|2014| [Beginning Python Visualization: Crafting Visual Transformation Scripts](https://b-ok.lat/book/2705823/e0253f)|
+|2014| [Raspberry Pi Cookbook for Python Programmers](https://b-ok.lat/book/2705851/1b12c0)|
+|2014| [Raspberry Pi Cookbook for Python Programmers](https://b-ok.lat/book/2705852/cb2e06)|
+|2014| [Raspberry Pi Cookbook for Python Programmers](https://b-ok.lat/book/2705853/cb2d7a)|
+|2014| [Python for Finance](https://b-ok.lat/book/2705889/1d0c94)|
+|2014| [Creating Apps in Kivy: Mobile with Python](https://b-ok.lat/book/2733794/ff4729)|
+|2014| [Beginning Python Visualization, 2nd Edition: Crafting Visual Transformation Scripts](https://b-ok.lat/book/2734080/2fb0b5)|
+|2014| [Beginning Programming with Python For Dummies](https://b-ok.lat/book/2734107/6800db)|
+|2014| [Building Mapping Applications with QGIS: Create your own sophisticated applications to analyze and display geospatial information using QGIS and Python](https://b-ok.lat/book/2734118/f13be8)|
+|2014| [Foundations of Python Network Programming, 3rd Edition](https://b-ok.lat/book/2735134/018bbe)|
+|2014| [Flask Web Development: Developing Web Applications with Python](https://b-ok.lat/book/2735138/b543d2)|
+|2014| [Mastering Object-oriented Python: Grasp the intricacies of object-oriented programming in Python in order to efficiently build powerful real-world applications](https://b-ok.lat/book/2735461/2e5e80)|
+|2014| [Introducing Python: Modern Computing in Simple Packages](https://b-ok.lat/book/2735868/d3e43e)|
+|2014| [IPython Interactive Computing and Visualization Cookbook: Over 100 hands-on recipes to sharpen your skills in high-performance numerical computing and data science with Python](https://b-ok.lat/book/2735870/2dd56c)|
+|2014| [Python Pocket Reference, 5th Edition: Python in Your Pocket](https://b-ok.lat/book/2736332/9fa3fc)|
+|2014| [Python Network Programming Cookbook: Over 70 detailed recipes to develop practical solutions for a wide range of real-world network programming tasks](https://b-ok.lat/book/2736340/9b1384)|
+|2014| [Python Tools for Visual Studio: Leverage the power of the Visual Studio IDE to develop better and more efficient Python projects](https://b-ok.lat/book/2736344/49697a)|
+|2014| [Python Algorithms, 2nd Edition: Mastering Basic Algorithms in the Python Language](https://b-ok.lat/book/2736366/95b960)|
+|2014| [Pro Python System Administration, 2nd Edition](https://b-ok.lat/book/2736385/e40aac)|
+|2014| [Python 3 Text Processing with NLTK 3 Cookbook: Over 80 practical recipes on natural language processing techniques using Python's NLTK 3.0](https://b-ok.lat/book/2736388/fd001b)|
+|2014| [Practical Data Science Cookbook: 89 hands-on recipes to help you complete real-world data science projects in R and Python](https://b-ok.lat/book/2736389/57d68f)|
+|2014| [Python for Finance: Analyze Big Financial Data](https://b-ok.lat/book/2736395/b01373)|
+|2014| [Pro Python, 2nd Edition](https://b-ok.lat/book/2736396/2e25d6)|
+|2014| [Python Projects](https://b-ok.lat/book/2736411/2b5d1a)|
+|2014| [Python Data Analysis: Learn how to apply powerful data analysis techniques with popular open source Python modules](https://b-ok.lat/book/2736422/967c8d)|
+|2014| [Learn Raspberry Pi Programming with Python](https://b-ok.lat/book/2737012/d286e0)|
+|2014| [Learning Selenium Testing Tools with Python: A practical guide on automated web testing with Selenium using Python](https://b-ok.lat/book/2737040/02545c)|
+|2014| [Learning Python Data Visualization: Master how to build dynamic HTML5-ready SVG charts using Python and the pygal library](https://b-ok.lat/book/2737043/5f949c)|
+|2014| [Learning Python with Raspberry Pi](https://b-ok.lat/book/2737044/241a5b)|
+|2014| [Learning Python Testing: A straightforward and easy approach to testing your Python projects](https://b-ok.lat/book/2737046/8c5c0a)|
+|2014| [Learning NumPy Array: Supercharge your scientific Python computations by understanding how to use the NumPy library effectively](https://b-ok.lat/book/2737047/d83884)|
+|2014| [Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing](https://b-ok.lat/book/2737542/2d6e2b)|
+|2014| [Raspberry Pi Cookbook for Python Programmers: Over 50 easy-to-comprehend tailor-made recipes to get the most out of the Raspberry Pi and unleash its huge potential using Python](https://b-ok.lat/book/2737756/1c113d)|
+|2014| [High Performance Python: Practical Performant Programming for Humans](https://b-ok.lat/book/2738001/9b5df3)|
+|2014| [Pro Python System Administration](https://b-ok.lat/book/2743933/7c36de)|
+|2014| [Python Network Programming Cookbook](https://b-ok.lat/book/2748681/f6c2fe)|
+|2014| [Python for Secret Agents](https://b-ok.lat/book/2748751/79afe6)|
+|2014| [Python Pocket Reference](https://b-ok.lat/book/2749133/146d32)|
+|2014| [Python Pocket Reference](https://b-ok.lat/book/2749325/c130ac)|
+|2014| [Practical Maya Programming with Python](https://b-ok.lat/book/2774687/670338)|
+|2014| [Mastering object-oriented Python](https://b-ok.lat/book/2835856/d7f3af)|
+|2014| [Mastering object-oriented Python](https://b-ok.lat/book/2835857/aed435)|
+|2014| [Python tools for Visual Studio](https://b-ok.lat/book/2835895/a71857)|
+|2014| [Python tools for Visual Studio](https://b-ok.lat/book/2835896/e1cbed)|
+|2014| [Python Projects](https://b-ok.lat/book/2951845/3df2d0)|
+|2014| [Parallel Programming with Python](https://b-ok.lat/book/2951911/c04b0a)|
+|2014| [Nobody expects the Spanish Inquisition : cultural contexts in Monty Python](https://b-ok.lat/book/3325198/03633b)|
+|2014| [Nobody expects the Spanish Inquisition : cultural contexts in Monty Python](https://b-ok.lat/book/3325199/765bef)|
+|2014| [Monty Python at Work](https://b-ok.lat/book/3327475/1cf321)|
+|2014| [How to Make Mistakes in Python](https://b-ok.lat/book/3327877/efedd2)|
+|2014| [Python data analysis](https://b-ok.lat/book/3332720/3ccd06)|
+|2014| [Parallel Programming with Python](https://b-ok.lat/book/3336441/52a138)|
+|2014| [Learning Python Data Visualization](https://b-ok.lat/book/3336888/af4e9f)|
+|2014| [Python 101](https://b-ok.lat/book/3382676/0051dc)|
+|2014| [Python Programming for Teens](https://b-ok.lat/book/3404234/0c4a63)|
+|2014| [Raspberry Pi cookbook for Python programmers : over 50 easy-to-comprehend tailor-made recipes to get the most out of the Raspberry Pi and unleash its huge potential usign Python](https://b-ok.lat/book/3426834/958551)|
+|2014| [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://b-ok.lat/book/3426961/d9ae95)|
+|2014| [Modeling Techniques in Predictive Analytics with Python and R: A Guide to Data Science](https://b-ok.lat/book/3632409/d8cfde)|
+|2014| [Parallel Programming with Python](https://b-ok.lat/book/3648106/49c906)|
+|2014| [Learning Python Testing](https://b-ok.lat/book/3648107/990ede)|
+|2014| [Parallel Programming with Python](https://b-ok.lat/book/3654125/fa6320)|
+|2014| [Python Forensics: A Workbench for Inventing and Sharing Digital Forensic Technology](https://b-ok.lat/book/3688648/cc55a0)|
+|2014| [Make a Raspberry Pi-Controlled Robot: Building a Rover with Python, Linux, Motors, and Sensors](https://b-ok.lat/book/3709658/12293f)|
+|2014| [PyQGIS Programmer’s Guide: Extending Qgis 2.X with Python](https://b-ok.lat/book/3718817/ff38d0)|
+|2014| [Movie Script: Monty Python And The Holy Grail](https://b-ok.lat/book/4138008/44548c)|
+|2014| [Python Pocket Reference](https://b-ok.lat/book/4706495/19e443)|
+|2014| [PomPoms Up! From Puberty to the Pythons and Beyond](https://b-ok.lat/book/4810039/43d134)|
+|2014| [Python Adventure](https://b-ok.lat/book/4990953/cf12dc)|
+|2014| [Python Data Analysis](https://b-ok.lat/book/5153997/9634d4)|
+|2014| [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://b-ok.lat/book/5206260/9a4c56)|
+|2014| [Violent Python: a cookbook for hackers, forensic analysts, penetration testers, and security engineers](https://b-ok.lat/book/5249807/2336c0)|
+|2014| [Python: Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 1)](https://b-ok.lat/book/5266232/36c962)|
+|2014| [Python: Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 1)](https://b-ok.lat/book/5342870/b00ad1)|
+|2014| [The Hacker’s Guide To Python](https://b-ok.lat/book/5372509/c78171)|
+|2014| [Learning Python testing : a straightforward and easy approach to testing your Python projects](https://b-ok.lat/book/5406085/4fd1b0)|
+|2014| [Python Data Analysis](https://b-ok.lat/book/5408475/d53cb3)|
+|2014| [Python in practice : create better programs using concurrency, libraries, and patterns](https://b-ok.lat/book/5408725/4ef4a3)|
+|2014| [Python Algorithms: Mastering Basic Algorithms in the Python Language](https://b-ok.lat/book/5408752/13f61a)|
+|2014| [Python Pocket Reference](https://b-ok.lat/book/5408963/de77d6)|
+|2014| [Building Probabilistic Graphical Models with Python](https://b-ok.lat/book/5409382/7848b3)|
+|2014| [Python tools for Visual Studio leverage the power of the Visual Studio IDE to develop better and more efficient Python projects](https://b-ok.lat/book/5409820/91c2ea)|
+|2014| [Learn Python the hard way : a very simple introduction to the terrifyingly beautiful world of computers and code](https://b-ok.lat/book/5412984/869a63)|
+|2013| [Python for Kids: A Playful Introduction to Programming](https://b-ok.lat/book/1311955/01712e)|
+|2013| [Introduction to Computation and Programming Using Python](https://b-ok.lat/book/2030770/a25868)|
+|2013| [Introduction to computation and programming using Python](https://b-ok.lat/book/2065181/4e659a)|
+|2013| [OpenCV Computer Vision with Python](https://b-ok.lat/book/2075529/89c89d)|
+|2013| [OpenCV Computer Vision with Python](https://b-ok.lat/book/2075530/26a5bd)|
+|2013| [OpenCV Computer Vision with Python](https://b-ok.lat/book/2075531/eaf870)|
+|2013| [Python Cookbook](https://b-ok.lat/book/2081884/764663)|
+|2013| [Data Structures and Algorithms in Python](https://b-ok.lat/book/2089156/1e610b)|
+|2013| [Python for Everyone](https://b-ok.lat/book/2089190/b0b4c8)|
+|2013| [Image Processing using Pulse-Coupled Neural Networks: Applications in Python](https://b-ok.lat/book/2115506/ebb444)|
+|2013| [Learning Python: powerful object-oriented programming](https://b-ok.lat/book/2159065/1a5e51)|
+|2013| [Learning Python: powerful object-oriented programming](https://b-ok.lat/book/2159066/34eb35)|
+|2013| [Python geospatial development](https://b-ok.lat/book/2172389/5e6698)|
+|2013| [Python geospatial development](https://b-ok.lat/book/2172390/688909)|
+|2013| [Python and HDF5](https://b-ok.lat/book/2210531/79f342)|
+|2013| [Python and HDF5](https://b-ok.lat/book/2210532/3fd153)|
+|2013| [Building Machine Learning Systems with Python](https://b-ok.lat/book/2214712/a06cf5)|
+|2013| [Building Machine Learning Systems with Python](https://b-ok.lat/book/2214713/ac66b5)|
+|2013| [Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns](https://b-ok.lat/book/2214736/f91c9b)|
+|2013| [Getting Started with BeagleBone: Linux-Powered Electronic Projects With Python and JavaScript](https://b-ok.lat/book/2216092/174f02)|
+|2013| [Getting Started with BeagleBone: Linux-Powered Electronic Projects With Python and JavaScript](https://b-ok.lat/book/2216179/bb7058)|
+|2013| [Practical Programming: An Introduction to Computer Science Using Python 3](https://b-ok.lat/book/2216795/a5a293)|
+|2013| [Practical Programming: An Introduction to Computer Science Using Python 3](https://b-ok.lat/book/2220302/1ee48f)|
+|2013| [Programming ArcGIS 10.1 with Python Cookbook](https://b-ok.lat/book/2221547/7bd4cb)|
+|2013| [Programming ArcGIS 10.1 with Python Cookbook](https://b-ok.lat/book/2221826/c53e3a)|
+|2013| [Python Cookbook](https://b-ok.lat/book/2222217/79311d)|
+|2013| [Python Cookbook](https://b-ok.lat/book/2224784/1b2169)|
+|2013| [Hacking Secret Ciphers with Python: A beginner's guide to cryptography and computer programming with Python](https://b-ok.lat/book/2224953/379262)|
+|2013| [Data Structures and Algorithms in Python](https://b-ok.lat/book/2271999/eea41a)|
+|2013| [Learning Python, 5th Edition](https://b-ok.lat/book/2272701/59531b)|
+|2013| [Python for everyone](https://b-ok.lat/book/2290169/780554)|
+|2013| [Data structures and algorithms in Python](https://b-ok.lat/book/2290976/d1e507)|
+|2013| [Learning Python, 5th Edition](https://b-ok.lat/book/2290978/0b1833)|
+|2013| [Python cookbook](https://b-ok.lat/book/2290982/bfad1a)|
+|2013| [Python Geospatial Development - Second Edition](https://b-ok.lat/book/2292355/70eb40)|
+|2013| [Python Cookbook](https://b-ok.lat/book/2323456/a1be9e)|
+|2013| [Learning Python Design Patterns](https://b-ok.lat/book/2328226/ef04de)|
+|2013| [Learning Geospatial Analysis with Python](https://b-ok.lat/book/2328911/4a1b06)|
+|2013| [Learning Geospatial Analysis with Python](https://b-ok.lat/book/2328912/70c75a)|
+|2013| [Python Data Visualization Cookbook](https://b-ok.lat/book/2335845/a0f715)|
+|2013| [Learning scikit-learn: Machine Learning in Python](https://b-ok.lat/book/2335846/d7b8ab)|
+|2013| [Coding Club Level 2 Python: Next Steps](https://b-ok.lat/book/2338728/c3f332)|
+|2013| [A functional start to computing with Python](https://b-ok.lat/book/2339404/b6a74d)|
+|2013| [Coding Club Level 3 Python: Building Big Apps](https://b-ok.lat/book/2339406/1e8aef)|
+|2013| [Python cookbook(program code)](https://b-ok.lat/book/2339917/81c118)|
+|2013| [Python Data Visualization Cookbook](https://b-ok.lat/book/2340822/d73036)|
+|2013| [Python Data Visualization Cookbook](https://b-ok.lat/book/2340823/dffaa5)|
+|2013| [Learning scikit-learn: Machine Learning in Python](https://b-ok.lat/book/2341117/741626)|
+|2013| [Learning scikit-learn: Machine Learning in Python](https://b-ok.lat/book/2341118/d51052)|
+|2013| [Learning Python Design Patterns](https://b-ok.lat/book/2341314/063fb3)|
+|2013| [Learning Python Design Patterns](https://b-ok.lat/book/2341315/925926)|
+|2013| [The Python Quick Syntax Reference](https://b-ok.lat/book/2341712/86db48)|
+|2013| [The Python Quick Syntax Reference](https://b-ok.lat/book/2341713/746088)|
+|2013| [Learning Python Design Patterns: A practical and fast-paced guide exploring Python design patterns](https://b-ok.lat/book/2351321/099d43)|
+|2013| [Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers](https://b-ok.lat/book/2360179/338152)|
+|2013| [Introduction to Computation and Programming Using Python, Revided &amp; Expanded](https://b-ok.lat/book/2364081/a29ec6)|
+|2013| [Learn Python The Hard Way](https://b-ok.lat/book/2366285/4cb4be)|
+|2013| [Numerical Methods in Engineering with Python 3](https://b-ok.lat/book/2373245/0ef144)|
+|2013| [Python High Performance Programming](https://b-ok.lat/book/2385000/b5524c)|
+|2013| [Python High Performance Programming](https://b-ok.lat/book/2385001/412f2a)|
+|2013| [Fundamentals of Python: Data Structures](https://b-ok.lat/book/2477364/5fc97e)|
+|2013| [Python in Easy Steps](https://b-ok.lat/book/2517483/f09d29)|
+|2013| [Python in Easy Steps](https://b-ok.lat/book/2517484/3cb3d2)|
+|2013| [Python in Easy Steps](https://b-ok.lat/book/2517485/6b40aa)|
+|2013| [Python in Easy Steps](https://b-ok.lat/book/2517486/ba59a5)|
+|2013| [Fundamentals of Python  Data Structures](https://b-ok.lat/book/2526426/98a4d1)|
+|2013| [Learning Python, 5th Edition](https://b-ok.lat/book/2636692/bb3f7f)|
+|2013| [Learning Python, 5th Edition](https://b-ok.lat/book/2636693/2c3660)|
+|2013| [Python for kids : a playful introduction to programming](https://b-ok.lat/book/2639258/f54827)|
+|2013| [Learning Python](https://b-ok.lat/book/2647633/802599)|
+|2013| [Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers](https://b-ok.lat/book/2698717/5d0767)|
+|2013| [Python in 24 Hours](https://b-ok.lat/book/2706013/db0117)|
+|2013| [Practical Programming - An Introduction to Computer Science Using Python 3](https://b-ok.lat/book/2706098/9fd9ab)|
+|2013| [Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns](https://b-ok.lat/book/2729456/f28096)|
+|2013| [Data Structures and Algorithms in Python](https://b-ok.lat/book/2734466/35cd23)|
+|2013| [Introduction to Computer Science Using Python: A Computational Problem-Solving Focus](https://b-ok.lat/book/2735879/fce69d)|
+|2013| [Kivy: Interactive Applications in Python: Create cross-platform UI/UX applications and games in Python](https://b-ok.lat/book/2736014/ccab24)|
+|2013| [OpenCV Computer Vision with Python: Learn to capture videos, manipulate images, and track objects with Python using the OpenCV Library](https://b-ok.lat/book/2736077/8c6faa)|
+|2013| [Python Cookbook, 3rd Edition: Recipes for Mastering Python 3](https://b-ok.lat/book/2736444/372337)|
+|2013| [Programming ArcGIS 10.1 with Python Cookbook: Over 75 recipes to help you automate geoprocessing tasks, create solutions, and solve problems for ArcGIS with Python](https://b-ok.lat/book/2736464/17d68a)|
+|2013| [Python Geospatial Development, 2nd Edition: Learn to build sophisticated mapping applications from scratch using Python tools for geospatial development](https://b-ok.lat/book/2736473/53120d)|
+|2013| [Python and HDF5: Unlocking Scientific Data](https://b-ok.lat/book/2736486/9f55d7)|
+|2013| [Practical Programming, 2nd Edition: An Introduction to Computer Science Using Python 3](https://b-ok.lat/book/2736499/5f2caa)|
+|2013| [Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns](https://b-ok.lat/book/2736509/ae6572)|
+|2013| [Learning IPython for Interactive Computing and Data Visualization: Learn IPython for interactive Python programming, high-performance numerical computing, and data visualization](https://b-ok.lat/book/2737071/54e49a)|
+|2013| [Learning Cython Programming: Expand your existing legacy applications in C using Python](https://b-ok.lat/book/2737088/2f4e27)|
+|2013| [Learning SciPy for Numerical and Scientific Computing: A practical tutorial that guarantees fast, accurate, and easy-to-code solutions to your numerical and scientific computing problems with the power of SciPy and Python](https://b-ok.lat/book/2737098/7e935c)|
+|2013| [Think Bayes: Bayesian Statistics in Python](https://b-ok.lat/book/2737587/ab97d5)|
+|2013| [Python Cookbook, 3rd edition](https://b-ok.lat/book/2747963/a90c68)|
+|2013| [Programming the Raspberry Pi  Getting Started with Python](https://b-ok.lat/book/2748336/c273bc)|
+|2013| [Building Machine Learning Systems with Python](https://b-ok.lat/book/2748347/219ea1)|
+|2013| [Python for Everyone](https://b-ok.lat/book/2748499/06b0a9)|
+|2013| [Numerical Methods in Engineering with Python 3](https://b-ok.lat/book/2748502/2a370c)|
+|2013| [Introduction to Computation and Programming Using Python](https://b-ok.lat/book/2749120/83f50b)|
+|2013| [Learning Python, 5th Edition](https://b-ok.lat/book/2762301/0b9e96)|
+|2013| [Treading on Python Volume 2: Intermediate Python](https://b-ok.lat/book/2775670/05745b)|
+|2013| [Computing With Python: An Introduction to Python for Science &amp; Engineering](https://b-ok.lat/book/2777641/fa33ab)|
+|2013| [Writing Idiomatic Python for v2.x](https://b-ok.lat/book/2829564/d878ac)|
+|2013| [Python Scripting for ArcGIS](https://b-ok.lat/book/2839695/bae1d5)|
+|2013| [Python Scripting for ArcGIS](https://b-ok.lat/book/2864226/672c65)|
+|2013| [Python for Data Analysis](https://b-ok.lat/book/2930160/b3a378)|
+|2013| [A Functional Start to Computing with Python](https://b-ok.lat/book/2947721/7c1707)|
+|2013| [Computing With Python  An Introduction to Python for Science &amp; Engineering](https://b-ok.lat/book/2951708/dd494f)|
+|2013| [Kivy: Interactive Applications in Python](https://b-ok.lat/book/3426772/f29dd9)|
+|2013| [Kivy: Interactive Applications in Python](https://b-ok.lat/book/3426773/a5a4d3)|
+|2013| [Learning SciPy for numerical and scientific computing : a practical tutorial that guarantees fast, accurate, and easy-to-code solutions to your numerical and scientific computing problems with the power of SciPy and Python](https://b-ok.lat/book/3426885/5d41c5)|
+|2013| [Think Bayes: Bayesian Statistics in Python](https://b-ok.lat/book/3559571/527829)|
+|2013| [Python for data analysis : Data wrangling with Pandas, Numpy, and IPython](https://b-ok.lat/book/3588725/34143a)|
+|2013| [Monty Python Speaks!](https://b-ok.lat/book/3871237/8b17ae)|
+|2013| [Monty Python](https://b-ok.lat/book/4136541/2c72a0)|
+|2013| [Python Scripting for ArcGIS](https://b-ok.lat/book/5151312/6c4f44)|
+|2013| [Learning Python, 5th Edition: Powerful Object-Oriented Programming](https://b-ok.lat/book/5151927/18ff92)|
+|2013| [Learn Python the Hard Way, 3rd Edition: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://b-ok.lat/book/5151928/333609)|
+|2013| [OpenCV Computer Vision with Python](https://b-ok.lat/book/5252867/8de6cd)|
+|2013| [Start Here: Python 3x Programming](https://b-ok.lat/book/5351845/d6acc5)|
+|2013| [Start Here: Python 3x Programming](https://b-ok.lat/book/5351846/455c61)|
+|2013| [Learning Python](https://b-ok.lat/book/5404474/e4a624)|
+|2013| [Python : Visual QuickStart Guide, Third Edition](https://b-ok.lat/book/5407232/ed595c)|
+|2013| [Python geospatial development](https://b-ok.lat/book/5408398/67db44)|
+|2013| [Python Cookbook](https://b-ok.lat/book/5408466/867721)|
+|2013| [Data Structures and Algorithms in Python](https://b-ok.lat/book/5411042/b92849)|
+|2013| [Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code, Third Edition, Video-Enhanced Edition](https://b-ok.lat/book/5412678/2a0982)|
+|2013| [Learning Python design patterns](https://b-ok.lat/book/5416906/9ff8af)|
+|2013| [Learning scikit-learn machine learning in Python : experience the benefits of machine learning techniques by applying them to real-world problems using Python and the open source scikit-learn library](https://b-ok.lat/book/5417023/a7b9d5)|
+|2013| [Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series)](https://b-ok.lat/book/5541888/5097df)|
+|2013| [Programming in Python 3: a complete introduction to the Python language](https://b-ok.lat/book/5665308/467a61)|
+|2013| [Python and HDF5](https://b-ok.lat/book/5667715/088a61)|
+
 
 
 
