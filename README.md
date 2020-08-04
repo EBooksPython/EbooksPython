@@ -1,6 +1,6 @@
 ## The Best Book in Python
 
-* Disclaimer: All the book are allowed outside this github repository the author didn't upload any book. 
+* Disclaimer: All the book are outside this github repository the author didn't upload any book. 
 
 |Year|Title|
 | ------------- |-------------|
